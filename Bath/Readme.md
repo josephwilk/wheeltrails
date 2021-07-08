@@ -1,6 +1,10 @@
 # Bath workshop 
 7th July 2021
 
+## Wheelchair motion to draw
+
+https://josephwilk.medium.com/wheelchair-motion-as-drawing-812a6fba98d0
+
 ## Augmented Reality
 
 We used:
