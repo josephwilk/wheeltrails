@@ -3,6 +3,8 @@
 
 ## Wheelchair motion to draw
 
+Examples of artists working with wheelchair movement:
+
 https://josephwilk.medium.com/wheelchair-motion-as-drawing-812a6fba98d0
 
 ## Augmented Reality
@@ -11,7 +13,7 @@ We used:
 * Weird Type (paid app) - https://apps.apple.com/us/app/weird-type/id1352785248
 * Unfolding Shrines - https://www.shapearts.org.uk/unfolding-shrines
 
-For video capture of movement we used a GoPro 8.
+For video capture of movement we used a GoPro 8 duct-taped to the lower front wheel suport.
 
 ## Physical marking 
 
