@@ -56,7 +56,7 @@ joseph@lostrobot.org or #wheelTrails
 
 # Stupid Cities
 
-Project about capturing micro-agressions of access. 
+Project about capturing micro-aggressions of access. 
 
 https://alpha.stupidcities.com
 
