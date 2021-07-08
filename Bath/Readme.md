@@ -23,6 +23,16 @@ Mobile applications for creating GPS trails. Works best under an open sky.
 * Apple - MyTracks https://www.mytracks4mac.info/en/#hero
 * Android - GPSLogger https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger
 
-Share any gps drawing you make: 
+Also works with fitness tracking apps like Strava (https://www.strava.com). 
+
+Read more about how people create GPS art:
+
+https://josephwilk.medium.com/research-drawing-with-gps-fc976410994d
+
+
+Share any GPS drawing you make: 
 joseph@lostrobot.org or #wheelTrails
+
+# Support
+Commissioned and supported by Unlimited, celebrating the work of disabled artists, with funding from SouthBank Centre and Arts Council England.
 
