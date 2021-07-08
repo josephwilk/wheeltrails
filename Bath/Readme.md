@@ -27,10 +27,7 @@ We used:
 
 Mobile applications for creating GPS trails. Works best under an open sky. 
 
-- Hit record
-- Move around
-- Stop record
-- Share in any format (screenshots or exporting route files in any format).
+Hit record, Move around, Stop record, Share in any format (screenshots or exporting route files in any format).
 
 * Apple - MyTracks https://www.mytracks4mac.info/en/#hero
 
