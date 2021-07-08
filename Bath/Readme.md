@@ -21,13 +21,27 @@ We used:
 * Water
 * Chalk
 * Water & Chalk
+* Ripping paper.
 
 ## GPS Trails
 
-Mobile applications for creating GPS trails. Works best under an open sky.
+Mobile applications for creating GPS trails. Works best under an open sky. 
+
+- Hit record
+- Move around
+- Stop record
+- Share in any format (screenshots or exporting route files in any format).
 
 * Apple - MyTracks https://www.mytracks4mac.info/en/#hero
+
+Under record/settings there are a few options that improve recording:
+Turn off "Record in motion only" (stopping is part of drawing)
+Turn off "Smooth recording" (more noisy routes but better accuracy of motion).
+Time Interval: 1sec
+
 * Android - GPSLogger https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger
+
+If there is trouble with the Android app there are a list if alternatives: https://wiki.openstreetmap.org/wiki/Android#Track_recording
 
 Also works with fitness tracking apps like Strava (https://www.strava.com). 
 
