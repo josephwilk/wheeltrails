@@ -54,6 +54,12 @@ https://josephwilk.medium.com/research-drawing-with-gps-fc976410994d
 Share any GPS drawing you make: 
 joseph@lostrobot.org or #wheelTrails
 
+# Stupid Cities
+
+Project about capturing micro-agressions of access. 
+
+https://alpha.stupidcities.com
+
 # Support
 Commissioned and supported by Unlimited, celebrating the work of disabled artists, with funding from SouthBank Centre and Arts Council England.
 
