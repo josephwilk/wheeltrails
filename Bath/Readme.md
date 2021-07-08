@@ -4,8 +4,10 @@
 ## Augmented Reality
 
 We used:
-* Weird Type (paided app) - https://apps.apple.com/us/app/weird-type/id1352785248
+* Weird Type (paid app) - https://apps.apple.com/us/app/weird-type/id1352785248
 * Unfolding Shrines - https://www.shapearts.org.uk/unfolding-shrines
+
+For video capture of movement we used a GoPro 8.
 
 ## Physical marking 
 
@@ -16,7 +18,7 @@ We used:
 
 ## GPS Trails
 
-Mobile applications for creating GPS trails. Work best under an open sky.
+Mobile applications for creating GPS trails. Works best under an open sky.
 
 * Apple - MyTracks https://www.mytracks4mac.info/en/#hero
 * Android - GPSLogger https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger
